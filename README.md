@@ -16,5 +16,4 @@ real        0m1.918s
 user        0m1.884s
 sys        0m0.013s
 
-That's it!  208989 algarismos!
 *)
